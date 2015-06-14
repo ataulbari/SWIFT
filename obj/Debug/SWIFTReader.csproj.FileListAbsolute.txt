@@ -1,0 +1,18 @@
+E:\R&D\SWIFTReader\SWIFTReader\obj\Debug\SWIFTReader.Form1.resources
+E:\R&D\SWIFTReader\SWIFTReader\obj\Debug\SWIFTReader.Properties.Resources.resources
+E:\R&D\SWIFTReader\SWIFTReader\obj\Debug\SWIFTReader.csproj.GenerateResource.Cache
+E:\R&D\SWIFTReader\SWIFTReader\bin\Debug\SWIFTReader.exe.config
+E:\R&D\SWIFTReader\SWIFTReader\bin\Debug\SWIFTReader.exe
+E:\R&D\SWIFTReader\SWIFTReader\bin\Debug\SWIFTReader.pdb
+E:\R&D\SWIFTReader\SWIFTReader\obj\Debug\SWIFTReader.csprojResolveAssemblyReference.cache
+E:\R&D\SWIFTReader\SWIFTReader\obj\Debug\SWIFTReader.exe
+E:\R&D\SWIFTReader\SWIFTReader\obj\Debug\SWIFTReader.pdb
+E:\AML\CI Library\Source Code\Development\SWIFTReader\SWIFTReader\bin\Debug\SWIFTReader.exe.config
+E:\AML\CI Library\Source Code\Development\SWIFTReader\SWIFTReader\obj\Debug\SWIFTReader.exe
+E:\AML\CI Library\Source Code\Development\SWIFTReader\SWIFTReader\obj\Debug\SWIFTReader.pdb
+E:\AML\CI Library\Source Code\Development\SWIFTReader\SWIFTReader\bin\Debug\SWIFTReader.exe
+E:\AML\CI Library\Source Code\Development\SWIFTReader\SWIFTReader\bin\Debug\SWIFTReader.pdb
+E:\AML\CI Library\Source Code\Development\SWIFTReader\SWIFTReader\obj\Debug\SWIFTReader.csprojResolveAssemblyReference.cache
+E:\AML\CI Library\Source Code\Development\SWIFTReader\SWIFTReader\obj\Debug\SWIFTReader.Form1.resources
+E:\AML\CI Library\Source Code\Development\SWIFTReader\SWIFTReader\obj\Debug\SWIFTReader.Properties.Resources.resources
+E:\AML\CI Library\Source Code\Development\SWIFTReader\SWIFTReader\obj\Debug\SWIFTReader.csproj.GenerateResource.Cache
